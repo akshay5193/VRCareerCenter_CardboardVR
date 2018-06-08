@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: ddfdd553cc9758e48b8b76b4fa405a1b
+timeCreated: 1525281511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CnA_frnt_btm1
+    100004: CnA_frnt_top1
+    100006: CnA_left_btm1
+    100008: CnA_left_top1
+    100010: CnA_right_btm1
+    100012: CnA_right_top1
+    100014: CR_book_inner1
+    100016: CR_book_outer1
+    100018: DIR_arrow1
+    100020: joint1
+    100022: joint2
+    100024: joint3
+    100026: JSP_finger5
+    100028: JSP_finger6
+    100030: JSP_finger7
+    100032: JSP_finger8
+    100034: JSP_left_collar1
+    100036: JSP_lefthand1
+    100038: JSP_right_collar1
+    100040: JSP_righthand1
+    100042: pCylinder1
+    100044: pCylinder2
+    100046: pCylinder3
+    100048: pCylinder4
+    100050: pCylinder5
+    100052: pCylinder6
+    100054: RWE_bag_btm1
+    100056: RWE_bag_top1
+    100058: RWE_circle_left1
+    100060: RWE_circle_right1
+    100062: RWE_holder1
+    100064: SE_cube1
+    100066: SE_cube2
+    100068: SE_cylinder1
+    100070: SE_cylinder2
+    100072: SE_face
+    100074: SE_qstn_btm
+    100076: SE_qstn_top
+    100078: SE_triangle1
+    100080: SE_triangle2
+    100082: transform1
+    400000: //RootNode
+    400002: CnA_frnt_btm1
+    400004: CnA_frnt_top1
+    400006: CnA_left_btm1
+    400008: CnA_left_top1
+    400010: CnA_right_btm1
+    400012: CnA_right_top1
+    400014: CR_book_inner1
+    400016: CR_book_outer1
+    400018: DIR_arrow1
+    400020: joint1
+    400022: joint2
+    400024: joint3
+    400026: JSP_finger5
+    400028: JSP_finger6
+    400030: JSP_finger7
+    400032: JSP_finger8
+    400034: JSP_left_collar1
+    400036: JSP_lefthand1
+    400038: JSP_right_collar1
+    400040: JSP_righthand1
+    400042: pCylinder1
+    400044: pCylinder2
+    400046: pCylinder3
+    400048: pCylinder4
+    400050: pCylinder5
+    400052: pCylinder6
+    400054: RWE_bag_btm1
+    400056: RWE_bag_top1
+    400058: RWE_circle_left1
+    400060: RWE_circle_right1
+    400062: RWE_holder1
+    400064: SE_cube1
+    400066: SE_cube2
+    400068: SE_cylinder1
+    400070: SE_cylinder2
+    400072: SE_face
+    400074: SE_qstn_btm
+    400076: SE_qstn_top
+    400078: SE_triangle1
+    400080: SE_triangle2
+    400082: transform1
+    2100000: blu_lamb
+    2100002: gray_lamb
+    2100004: red_lamb
+    2100006: ylw_lamb
+    2100008: wht_lamb
+    2100010: lambert8
+    2100012: purp_lamb
+    2100014: baby_blue__lamb
+    4300000: SE_triangle2
+    4300002: SE_qstn_top
+    4300004: SE_cylinder1
+    4300006: SE_cube1
+    4300008: SE_qstn_btm
+    4300010: SE_triangle1
+    4300012: SE_face
+    4300014: JSP_right_collar1
+    4300016: JSP_righthand1
+    4300018: JSP_finger6
+    4300020: JSP_finger5
+    4300022: pCylinder1
+    4300024: CnA_frnt_top1
+    4300026: CnA_right_top1
+    4300028: CnA_frnt_btm1
+    4300030: CnA_right_btm1
+    4300032: CnA_left_top1
+    4300034: CnA_left_btm1
+    4300036: SE_cube2
+    4300038: SE_cylinder2
+    4300040: pCylinder2
+    4300042: RWE_bag_btm1
+    4300044: RWE_bag_top1
+    4300046: RWE_circle_right1
+    4300048: RWE_circle_left1
+    4300050: RWE_holder1
+    4300052: pCylinder4
+    4300054: CR_book_outer1
+    4300056: CR_book_inner1
+    4300058: pCylinder3
+    4300060: JSP_left_collar1
+    4300062: JSP_lefthand1
+    4300064: pCylinder5
+    4300066: JSP_finger8
+    4300068: JSP_finger7
+    4300070: pCylinder6
+    4300072: DIR_arrow1
+    7400000: idle_anim
+    7400002: jump_anim
+    9500000: //RootNode
+    13700000: CnA_frnt_btm1
+    13700002: CnA_frnt_top1
+    13700004: CnA_left_btm1
+    13700006: CnA_left_top1
+    13700008: CnA_right_btm1
+    13700010: CnA_right_top1
+    13700012: CR_book_inner1
+    13700014: CR_book_outer1
+    13700016: DIR_arrow1
+    13700018: JSP_finger5
+    13700020: JSP_finger6
+    13700022: JSP_finger7
+    13700024: JSP_finger8
+    13700026: JSP_left_collar1
+    13700028: JSP_lefthand1
+    13700030: JSP_right_collar1
+    13700032: JSP_righthand1
+    13700034: pCylinder1
+    13700036: pCylinder2
+    13700038: pCylinder3
+    13700040: pCylinder4
+    13700042: pCylinder5
+    13700044: pCylinder6
+    13700046: RWE_bag_btm1
+    13700048: RWE_bag_top1
+    13700050: RWE_circle_left1
+    13700052: RWE_circle_right1
+    13700054: RWE_holder1
+    13700056: SE_cube1
+    13700058: SE_cube2
+    13700060: SE_cylinder1
+    13700062: SE_cylinder2
+    13700064: SE_face
+    13700066: SE_qstn_btm
+    13700068: SE_qstn_top
+    13700070: SE_triangle1
+    13700072: SE_triangle2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump_anim
+      takeName: Take 001
+      firstFrame: 63
+      lastFrame: 222
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: f0aab89c47867b24396cdafbcba15eac
+timeCreated: 1525471508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint4
+    100004: joint5
+    100006: joint6
+    100008: SE_rig:CnA_frnt_btm
+    100010: SE_rig:CnA_frnt_top
+    100012: SE_rig:CnA_front
+    100014: SE_rig:CnA_inner_circle
+    100016: SE_rig:CnA_left
+    100018: SE_rig:CnA_left_btm
+    100020: SE_rig:CnA_left_top
+    100022: SE_rig:CnA_people_grp
+    100024: SE_rig:CnA_right
+    100026: SE_rig:CnA_right_btm
+    100028: SE_rig:CnA_right_top
+    100030: SE_rig:CnA_rim
+    100032: transform2
+    400000: //RootNode
+    400002: joint4
+    400004: joint5
+    400006: joint6
+    400008: SE_rig:CnA_frnt_btm
+    400010: SE_rig:CnA_frnt_top
+    400012: SE_rig:CnA_front
+    400014: SE_rig:CnA_inner_circle
+    400016: SE_rig:CnA_left
+    400018: SE_rig:CnA_left_btm
+    400020: SE_rig:CnA_left_top
+    400022: SE_rig:CnA_people_grp
+    400024: SE_rig:CnA_right
+    400026: SE_rig:CnA_right_btm
+    400028: SE_rig:CnA_right_top
+    400030: SE_rig:CnA_rim
+    400032: transform2
+    2100000: SE_rig_red_lamb1
+    2100002: SE_rig_wht_lamb
+    4300000: SE_rig:CnA_inner_circle
+    4300002: SE_rig:CnA_rim
+    4300004: SE_rig:CnA_frnt_top
+    4300006: SE_rig:CnA_frnt_btm
+    4300008: SE_rig:CnA_left_top
+    4300010: SE_rig:CnA_left_btm
+    4300012: SE_rig:CnA_right_top
+    4300014: SE_rig:CnA_right_btm
+    7400000: idle
+    7400002: jump
+    9500000: //RootNode
+    13700000: SE_rig:CnA_frnt_btm
+    13700002: SE_rig:CnA_frnt_top
+    13700004: SE_rig:CnA_inner_circle
+    13700006: SE_rig:CnA_left_btm
+    13700008: SE_rig:CnA_left_top
+    13700010: SE_rig:CnA_right_btm
+    13700012: SE_rig:CnA_right_top
+    13700014: SE_rig:CnA_rim
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 63
+      lastFrame: 237
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
